@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instructionals module="QtTestLib">
+    <examples>
+        <example name="Chapter 1: Writing a Unit Test" docUrl="qthelp://org.qt-project.qttest.540/qttest/qttestlib-tutorial1-example.html" projectPath="testlib/tutorial1/tutorial1.pro">
+            <description><![CDATA[No description available]]></description>
+            <tags>writing,unit,test,lib</tags>
+        </example>
+        <example name="Chapter 2: Data Driven Testing" docUrl="qthelp://org.qt-project.qttest.540/qttest/qttestlib-tutorial2-example.html" projectPath="testlib/tutorial2/tutorial2.pro">
+            <description><![CDATA[No description available]]></description>
+            <tags>testing,driven,test,data,lib</tags>
+        </example>
+        <example name="Chapter 3: Simulating GUI Events" docUrl="qthelp://org.qt-project.qttest.540/qttest/qttestlib-tutorial3-example.html" projectPath="testlib/tutorial3/tutorial3.pro">
+            <description><![CDATA[No description available]]></description>
+            <tags>simulating,gui,events,test,lib</tags>
+        </example>
+        <example name="Chapter 4: Replaying GUI Events" docUrl="qthelp://org.qt-project.qttest.540/qttest/qttestlib-tutorial4-example.html" projectPath="testlib/tutorial4/tutorial4.pro">
+            <description><![CDATA[No description available]]></description>
+            <tags>replaying,gui,events,test,lib</tags>
+        </example>
+        <example name="Chapter 5: Writing a Benchmark" docUrl="qthelp://org.qt-project.qttest.540/qttest/qttestlib-tutorial5-example.html" projectPath="testlib/tutorial5/tutorial5.pro">
+            <description><![CDATA[No description available]]></description>
+            <tags>writing,test,benchmark,lib</tags>
+        </example>
+    </examples>
+</instructionals>

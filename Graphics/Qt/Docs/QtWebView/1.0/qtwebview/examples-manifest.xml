@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instructionals module="QtWebView">
+    <examples>
+        <example name="Qt WebView Examples - WebView" docUrl="qthelp://org.qt-project.qtwebview.540/qtwebview/qtwebview-webview-example.html" projectPath="webview/webview/webview.pro" imageUrl="qthelp://org.qt-project.qtwebview.540/qtwebview/images/webview-example.png">
+            <description><![CDATA[WebView is an example that demonstrates how to use the Qt WebView module with Qt Quick.]]></description>
+            <tags>view,web,webview</tags>
+            <fileToOpen>webview/webview/main.cpp</fileToOpen>
+            <fileToOpen mainFile="true">webview/webview/main.qml</fileToOpen>
+        </example>
+    </examples>
+</instructionals>

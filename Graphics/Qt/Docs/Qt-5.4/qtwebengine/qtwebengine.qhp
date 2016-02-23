@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>org.qt-project.qtwebengine.540</namespace>
+    <virtualFolder>qtwebengine</virtualFolder>
+    <customFilter name="QtWebEngine 5.4.0">
+        <filterAttribute>5.4.0</filterAttribute>
+        <filterAttribute>qtwebengine</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>qtrefdoc</filterAttribute>
+        <filterAttribute>5.4.0</filterAttribute>
+        <filterAttribute>qtwebengine</filterAttribute>
+        <toc>
+            <section ref="qtwebengine-index.html" title="Qt WebEngine">
+                <section ref="webengine-examples.html" title="Examples">
+                    <section ref="qtwebengine-quicknanobrowser-example.html" title="WebEngine Quick Nano Browser"/>
+                </section>
+                <section ref="qtwebengine-qmlmodule.html" title="QML Types">
+                    <section ref="qml-qtwebengine-webengineloadrequest.html" title="WebEngineLoadRequest Type Reference">
+                        <section ref="qml-qtwebengine-webengineloadrequest-members.html" title="List of all members"/>
+                    </section>
+                    <section ref="qml-qtwebengine-webengineview.html" title="WebEngineView Type Reference">
+                        <section ref="qml-qtwebengine-webengineview-members.html" title="List of all members"/>
+                    </section>
+                </section>
+            </section>
+        </toc>
+        <keywords>
+            <keyword name="Qt WebEngine" id="Qt WebEngine" ref="qtwebengine-index.html"/>
+            <keyword name="QtWebEngine" id="QtWebEngine" ref="qtwebengine-qmlmodule.html"/>
+            <keyword name="WebEngineLoadRequest" id="QML.WebEngineLoadRequest" ref="qml-qtwebengine-webengineloadrequest.html"/>
+            <keyword name="errorCode" id="::errorCode" ref="qml-qtwebengine-webengineloadrequest.html#errorCode-prop"/>
+            <keyword name="errorString" id="::errorString" ref="qml-qtwebengine-webengineloadrequest.html#errorString-prop"/>
+            <keyword name="status" id="::status" ref="qml-qtwebengine-webengineloadrequest.html#status-prop"/>
+            <keyword name="url" id="::url" ref="qml-qtwebengine-webengineloadrequest.html#url-prop"/>
+            <keyword name="WebEngineView" id="QML.WebEngineView" ref="qml-qtwebengine-webengineview.html"/>
+            <keyword name="ErrorDomain" id="::ErrorDomain" ref="qml-qtwebengine-webengineview.html#ErrorDomain-prop"/>
+            <keyword name="JavaScriptConsoleMessageLevel" id="::JavaScriptConsoleMessageLevel" ref="qml-qtwebengine-webengineview.html#JavaScriptConsoleMessageLevel-prop"/>
+            <keyword name="LoadStatus" id="::LoadStatus" ref="qml-qtwebengine-webengineview.html#LoadStatus-prop"/>
+            <keyword name="canGoBack" id="::canGoBack" ref="qml-qtwebengine-webengineview.html#canGoBack-prop"/>
+            <keyword name="canGoForward" id="::canGoForward" ref="qml-qtwebengine-webengineview.html#canGoForward-prop"/>
+            <keyword name="goBack" id="WebEngineView::goBack" ref="qml-qtwebengine-webengineview.html#goBack-method"/>
+            <keyword name="goForward" id="WebEngineView::goForward" ref="qml-qtwebengine-webengineview.html#goForward-method"/>
+            <keyword name="icon" id="::icon" ref="qml-qtwebengine-webengineview.html#icon-prop"/>
+            <keyword name="linkHovered" id="WebEngineView::linkHovered" ref="qml-qtwebengine-webengineview.html#linkHovered-signal"/>
+            <keyword name="loadHtml" id="WebEngineView::loadHtml" ref="qml-qtwebengine-webengineview.html#loadHtml-method"/>
+            <keyword name="loadProgress" id="::loadProgress" ref="qml-qtwebengine-webengineview.html#loadProgress-prop"/>
+            <keyword name="loading" id="::loading" ref="qml-qtwebengine-webengineview.html#loading-prop"/>
+            <keyword name="loadingChanged" id="WebEngineView::loadingChanged" ref="qml-qtwebengine-webengineview.html#loadingChanged-signal"/>
+            <keyword name="reload" id="WebEngineView::reload" ref="qml-qtwebengine-webengineview.html#reload-method"/>
+            <keyword name="runJavaScript" id="WebEngineView::runJavaScript" ref="qml-qtwebengine-webengineview.html#runJavaScript-method"/>
+            <keyword name="stop" id="WebEngineView::stop" ref="qml-qtwebengine-webengineview.html#stop-method"/>
+            <keyword name="title" id="::title" ref="qml-qtwebengine-webengineview.html#title-prop"/>
+            <keyword name="url" id="::url" ref="qml-qtwebengine-webengineview.html#url-prop"/>
+            <keyword name="WebEngine Quick Nano Browser" id="WebEngine Quick Nano Browser" ref="qtwebengine-quicknanobrowser-example.html"/>
+            <keyword name="webengine-examples" id="webengine-examples" ref="webengine-examples.html"/>
+        </keywords>
+        <files>
+            <file>webengine-examples.html</file>
+            <file>images/btn_next.png</file>
+            <file>images/bullet_sq.png</file>
+            <file>qml-qtwebengine-webengineview.html</file>
+            <file>style/offline.css</file>
+            <file>qtwebengine-quicknanobrowser-example.html</file>
+            <file>images/quicknanobrowser-demo.jpg</file>
+            <file>images/bgrContent.png</file>
+            <file>images/btn_prev.png</file>
+            <file>images/home.png</file>
+            <file>qtwebengine-quicknanobrowser-util-h.html</file>
+            <file>qml-qtwebengine-webengineview-members.html</file>
+            <file>images/bullet_dn.png</file>
+            <file>images/ico_note.png</file>
+            <file>images/logo.png</file>
+            <file>images/ico_out.png</file>
+            <file>qtwebengine-qmlmodule.html</file>
+            <file>qtwebengine-quicknanobrowser-quickwindow-qml.html</file>
+            <file>qml-qtwebengine-webengineloadrequest.html</file>
+            <file>qtwebengine-quicknanobrowser-quickwindow-cpp.html</file>
+            <file>qtwebengine-quicknanobrowser-quickwindow-h.html</file>
+            <file>qml-qtwebengine-webengineloadrequest-members.html</file>
+            <file>qtwebengine-quicknanobrowser-resources-qrc.html</file>
+            <file>qtwebengine-quicknanobrowser-main-cpp.html</file>
+            <file>images/arrow_bc.png</file>
+            <file>qtwebengine-quicknanobrowser-quicknanobrowser-pro.html</file>
+            <file>qtwebengine-index.html</file>
+            <file>images/ico_note_attention.png</file>
+        </files>
+    </filterSection>
+</QtHelpProject>

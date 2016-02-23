@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tagfile>
+    <compound kind="class">
+        <name>QtWebEngine.WebEngineLoadRequest</name>
+        <filename>qml-qtwebengine-webengineloadrequest.html</filename>
+    </compound>
+    <compound kind="class">
+        <name>QtWebEngine.WebEngineView</name>
+        <filename>qml-qtwebengine-webengineview.html</filename>
+    </compound>
+</tagfile>

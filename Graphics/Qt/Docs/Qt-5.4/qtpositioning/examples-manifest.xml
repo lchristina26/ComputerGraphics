@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instructionals module="QtPositioning">
+    <examples>
+        <example name="Flickr (QML)" docUrl="qthelp://org.qt-project.qtpositioning.540/qtpositioning/qtpositioning-flickr-example.html" projectPath="positioning/flickr/flickr.pro" imageUrl="qthelp://org.qt-project.qtpositioning.540/qtpositioning/images/qml-flickr-1.jpg">
+            <description><![CDATA[The Flickr example shows how to use the user's current position to fetch local content from a web service.]]></description>
+            <tags>(qml),positioning,flickr</tags>
+            <fileToOpen mainFile="true">positioning/flickr/flickr.qml</fileToOpen>
+        </example>
+        <example name="Log File Position Source (C++)" docUrl="qthelp://org.qt-project.qtpositioning.540/qtpositioning/qtpositioning-logfilepositionsource-example.html" projectPath="positioning/logfilepositionsource/logfilepositionsource.pro" imageUrl="qthelp://org.qt-project.qtdoc.540/qtdoc/images/qt-codesample.png">
+            <description><![CDATA[The Logfile Position Source shows how to create and work with a custom NMEA position source, for platforms without GPS.]]></description>
+            <tags>positioning,position,log,source,(c++),file</tags>
+            <fileToOpen>positioning/logfilepositionsource/main.cpp</fileToOpen>
+            <fileToOpen>positioning/logfilepositionsource/logfilepositionsource.h</fileToOpen>
+            <fileToOpen mainFile="true">positioning/logfilepositionsource/logfilepositionsource.cpp</fileToOpen>
+        </example>
+        <example name="SatelliteInfo (C++/QML)" docUrl="qthelp://org.qt-project.qtpositioning.540/qtpositioning/qtpositioning-satelliteinfo-example.html" projectPath="positioning/satelliteinfo/satelliteinfo.pro" imageUrl="qthelp://org.qt-project.qtpositioning.540/qtpositioning/images/example-satelliteinfo.png">
+            <description><![CDATA[The SatelliteInfo example shows how the available satellites at the user's current position and marks the satellites currently contributing to the GPS fix as pink.]]></description>
+            <tags>(c++/qml),satelliteinfo,positioning</tags>
+            <fileToOpen>positioning/satelliteinfo/main.cpp</fileToOpen>
+            <fileToOpen mainFile="true">positioning/satelliteinfo/satelliteinfo.qml</fileToOpen>
+        </example>
+        <example name="Weather Info (C++/QML)" docUrl="qthelp://org.qt-project.qtpositioning.540/qtpositioning/qtpositioning-weatherinfo-example.html" projectPath="positioning/weatherinfo/weatherinfo.pro" imageUrl="qthelp://org.qt-project.qtpositioning.540/qtpositioning/images/example-weatherinfo.png">
+            <description><![CDATA[The Weather Info example shows how to use the user's current position to retrieve local content from a web service in a C++ plugin for QML.]]></description>
+            <tags>(c++/qml),positioning,info,weather</tags>
+            <fileToOpen>positioning/weatherinfo/main.cpp</fileToOpen>
+            <fileToOpen mainFile="true">positioning/weatherinfo/weatherinfo.qml</fileToOpen>
+        </example>
+    </examples>
+</instructionals>

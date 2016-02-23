@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instructionals module="QtQuickControls">
+    <examples>
+        <example name="Qt Quick Controls - Basic Layouts Example" docUrl="qthelp://org.qt-project.qtquickcontrols.540/qtquickcontrols/qtquickcontrols-basiclayouts-example.html" projectPath="quick/controls/basiclayouts/basiclayouts.pro" imageUrl="qthelp://org.qt-project.qtquickcontrols.540/qtquickcontrols/images/qtquickcontrols-example-basiclayouts.png">
+            <description><![CDATA[Demonstrates how to use layout types to arrange a UI]]></description>
+            <tags>layouts,quick,basic,controls</tags>
+            <fileToOpen>quick/controls/basiclayouts/src/main.cpp</fileToOpen>
+            <fileToOpen mainFile="true">quick/controls/basiclayouts/main.qml</fileToOpen>
+        </example>
+        <example name="Qt Quick Controls - Calendar Example" docUrl="qthelp://org.qt-project.qtquickcontrols.540/qtquickcontrols/qtquickcontrols-calendar-example.html" projectPath="quick/controls/calendar/calendar.pro" imageUrl="qthelp://org.qt-project.qtquickcontrols.540/qtquickcontrols/images/qtquickcontrols-example-calendar.png" isHighlighted="true">
+            <description><![CDATA[Demonstrates the use of Calendar control]]></description>
+            <tags>calendar,quick,controls</tags>
+            <fileToOpen>quick/controls/calendar/src/main.cpp</fileToOpen>
+            <fileToOpen mainFile="true">quick/controls/calendar/qml/main.qml</fileToOpen>
+        </example>
+        <example name="Qt Quick Controls - Gallery" docUrl="qthelp://org.qt-project.qtquickcontrols.540/qtquickcontrols/qtquickcontrols-gallery-example.html" projectPath="quick/controls/gallery/gallery.pro" imageUrl="qthelp://org.qt-project.qtquickcontrols.540/qtquickcontrols/images/qtquickcontrols-example-gallery-osx.png" isHighlighted="true">
+            <description><![CDATA[A collection of components for a classic desktop-style UI.]]></description>
+            <tags>gallery,quick,controls</tags>
+            <fileToOpen>quick/controls/gallery/main.cpp</fileToOpen>
+            <fileToOpen mainFile="true">quick/controls/gallery/main.qml</fileToOpen>
+        </example>
+        <example name="Qt Quick Controls - Styles Example" docUrl="qthelp://org.qt-project.qtquickcontrols.540/qtquickcontrols/qtquickcontrols-styles-example.html" projectPath="quick/controls/styles/styles.pro" imageUrl="qthelp://org.qt-project.qtquickcontrols.540/qtquickcontrols/images/qtquickcontrols-example-styles.png">
+            <description><![CDATA[Demonstrates custom styles]]></description>
+            <tags>quick,controls,styles</tags>
+            <fileToOpen>quick/controls/styles/main.cpp</fileToOpen>
+            <fileToOpen mainFile="true">quick/controls/styles/main.qml</fileToOpen>
+        </example>
+        <example name="Qt Quick Controls - Table View Example" docUrl="qthelp://org.qt-project.qtquickcontrols.540/qtquickcontrols/qtquickcontrols-tableview-example.html" projectPath="quick/controls/tableview/tableview.pro" imageUrl="qthelp://org.qt-project.qtquickcontrols.540/qtquickcontrols/images/qtquickcontrols-example-tableview.png" isHighlighted="true">
+            <description><![CDATA[An example for the TableView control.]]></description>
+            <tags>table,view,quick,controls</tags>
+            <fileToOpen>quick/controls/tableview/src/main.cpp</fileToOpen>
+            <fileToOpen mainFile="true">quick/controls/tableview/main.qml</fileToOpen>
+        </example>
+        <example name="Qt Quick Controls - Text Editor Example" docUrl="qthelp://org.qt-project.qtquickcontrols.540/qtquickcontrols/qtquickcontrols-texteditor-example.html" projectPath="quick/controls/texteditor/texteditor.pro" imageUrl="qthelp://org.qt-project.qtquickcontrols.540/qtquickcontrols/images/qtquickcontrols-example-text.png" isHighlighted="true">
+            <description><![CDATA[A QML app using Qt Quick Controls and a C++ class to provide a fully-functional rich-text editor application.]]></description>
+            <tags>editor,quick,controls,text</tags>
+            <fileToOpen>quick/controls/texteditor/src/main.cpp</fileToOpen>
+            <fileToOpen mainFile="true">quick/controls/texteditor/qml/main.qml</fileToOpen>
+        </example>
+        <example name="Qt Quick Controls - Touch Gallery" docUrl="qthelp://org.qt-project.qtquickcontrols.540/qtquickcontrols/qtquickcontrols-touch-example.html" projectPath="quick/controls/touch/touch.pro" imageUrl="qthelp://org.qt-project.qtquickcontrols.540/qtquickcontrols/images/qtquickcontrols-example-touch.png">
+            <description><![CDATA[Demonstrates UI controls for a touch interface]]></description>
+            <tags>gallery,quick,touch,controls</tags>
+            <fileToOpen>quick/controls/touch/src/main.cpp</fileToOpen>
+            <fileToOpen mainFile="true">quick/controls/touch/main.qml</fileToOpen>
+        </example>
+    </examples>
+</instructionals>

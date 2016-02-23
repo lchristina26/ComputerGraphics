@@ -1,0 +1,14 @@
+prefix=/home/leah/Documents/Graphics/Qt/5.4/gcc_64
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+
+Name: Qt5 WebEngineWidgets
+Description: Qt WebEngineWidgets module
+Version: 5.4.0
+Libs: -L${libdir} -lQt5WebEngineWidgets 
+Libs.private: -L/home/leah/Documents/Graphics/Qt/5.4/gcc_64/lib -lQt5WebEngine -L/home/leah/Documents/Graphics/Qt/5.4/gcc_64/lib -L/home/leah/Documents/Graphics/Qt/5.4/gcc_64/lib -lQt5Quick -lQt5Widgets -lQt5Gui -lQt5Qml -lQt5Network -lQt5Core -lpthread -lQt5WebEngineCore -L/home/leah/Documents/Graphics/Qt/5.4/gcc_64/lib -L/home/leah/Documents/Graphics/Qt/5.4/gcc_64/lib -lQt5Quick -lQt5Gui -lQt5Qml -lQt5Network -lQt5Core -lpthread -lGL  
+Cflags: -I${includedir}/QtWebEngineWidgets -I${includedir}
+Requires: Qt5Core Qt5Gui Qt5WebEngine Qt5Widgets Qt5Network Qt5Quick
+

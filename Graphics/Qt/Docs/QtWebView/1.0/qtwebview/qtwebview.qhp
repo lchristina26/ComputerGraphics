@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>org.qt-project.qtwebview.540</namespace>
+    <virtualFolder>qtwebview</virtualFolder>
+    <customFilter name="QtWebView 1.0">
+        <filterAttribute>1.0</filterAttribute>
+        <filterAttribute>qtwebview</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>1.0</filterAttribute>
+        <filterAttribute>qtrefdoc</filterAttribute>
+        <filterAttribute>qtwebview</filterAttribute>
+        <toc>
+            <section ref="qtwebview-index.html" title="Qt WebView">
+                <section ref="qtwebview-examples.html" title="Examples">
+                    <section ref="qtwebview-webview-example.html" title="Qt WebView Examples - WebView"/>
+                </section>
+                <section ref="qtwebview-qmlmodule.html" title="QML Types">
+                    <section ref="qml-qtwebview-webview.html" title="WebView Type Reference">
+                        <section ref="qml-qtwebview-webview-members.html" title="List of all members"/>
+                    </section>
+                </section>
+            </section>
+        </toc>
+        <keywords>
+            <keyword name="Qt WebView" id="Qt WebView" ref="qtwebview-index.html"/>
+            <keyword name="Qt WebView Examples - WebView" id="Qt WebView Examples - WebView" ref="qtwebview-webview-example.html"/>
+            <keyword name="QtWebView" id="QtWebView" ref="qtwebview-qmlmodule.html"/>
+            <keyword name="WebView" id="QML.WebView" ref="qml-qtwebview-webview.html"/>
+            <keyword name="canGoBack" id="::canGoBack" ref="qml-qtwebview-webview.html#canGoBack-prop"/>
+            <keyword name="canGoForward" id="::canGoForward" ref="qml-qtwebview-webview.html#canGoForward-prop"/>
+            <keyword name="loadProgress" id="::loadProgress" ref="qml-qtwebview-webview.html#loadProgress-prop"/>
+            <keyword name="loading" id="::loading" ref="qml-qtwebview-webview.html#loading-prop"/>
+            <keyword name="title" id="::title" ref="qml-qtwebview-webview.html#title-prop"/>
+            <keyword name="url" id="::url" ref="qml-qtwebview-webview.html#url-prop"/>
+            <keyword name="qtwebview-examples" id="qtwebview-examples" ref="qtwebview-examples.html"/>
+        </keywords>
+        <files>
+            <file>images/bgrContent.png</file>
+            <file>images/btn_next.png</file>
+            <file>qtwebview-examples.html</file>
+            <file>images/logo.png</file>
+            <file>qtwebview-webview-main-cpp.html</file>
+            <file>images/home.png</file>
+            <file>qml-qtwebview-webview.html</file>
+            <file>qtwebview-webview-main-qml.html</file>
+            <file>style/offline.css</file>
+            <file>images/btn_prev.png</file>
+            <file>qml-qtwebview-webview-members.html</file>
+            <file>qtwebview-webview-webview-pro.html</file>
+            <file>images/ico_note.png</file>
+            <file>images/webview-example.png</file>
+            <file>images/bullet_sq.png</file>
+            <file>qtwebview-qmlmodule.html</file>
+            <file>qtwebview-webview-qml-qrc.html</file>
+            <file>qtwebview-index.html</file>
+            <file>qtwebview-webview-example.html</file>
+            <file>images/ico_out.png</file>
+            <file>images/ico_note_attention.png</file>
+            <file>images/arrow_bc.png</file>
+            <file>images/bullet_dn.png</file>
+        </files>
+    </filterSection>
+</QtHelpProject>

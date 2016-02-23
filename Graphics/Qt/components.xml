@@ -1,0 +1,310 @@
+<Packages>
+    <ApplicationName>Qt</ApplicationName>
+    <ApplicationVersion>1.0.1</ApplicationVersion>
+    <Package>
+        <Name>qt.tools</Name>
+        <Pixmap></Pixmap>
+        <Title>Tools</Title>
+        <Description>IDE, Internationalization, Design and other tools to accelerate development.</Description>
+        <Version>1.0.8-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>0</Size>
+        <Dependencies></Dependencies>
+    </Package>
+    <Package>
+        <Name>qt.extras</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt Extras</Title>
+        <Description>License options: LGPLv3, Commercial&lt;br>&lt;br>NOTE: Not licensed under LGPLv2.1&lt;br>&lt;br>Extra components in addition to Qt standard packages.</Description>
+        <Version>1.0.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>0</Size>
+        <Dependencies></Dependencies>
+    </Package>
+    <Package>
+        <Name>qt.readme</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt Readme</Title>
+        <Description>Qt Readme</Description>
+        <Version>1.0.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>5792</Size>
+        <Dependencies></Dependencies>
+        <ForcedInstallation>true</ForcedInstallation>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.54.qtwebengine</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt WebEngine</Title>
+        <Description>License options: LGPLv3, GPLv2, Commercial&lt;br>&lt;br>NOTE: Not licensed under LGPLv2.1&lt;br>&lt;br>The Qt WebEngine module integrates the fast moving Chromium web platform into Qt and provides a convenient API for both Qt Widgets and Qt Quick to utilize Chromium's web capabilities. Qt WebEngine takes full benefit of the whole Qt graphics stack integration allowing seamless mix and overlay of native Qt controls with web content and OpenGL shaders.</Description>
+        <Version>5.4.0-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>0</Size>
+        <Dependencies></Dependencies>
+    </Package>
+    <Package>
+        <Name>qt.tools.qtcreator</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt Creator 3.3.0</Title>
+        <Description>IDE for Qt application development</Description>
+        <Version>3.3.0-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>249993492</Size>
+        <Dependencies></Dependencies>
+        <ForcedInstallation>true</ForcedInstallation>
+    </Package>
+    <Package>
+        <Name>qt.tools.maintenance</Name>
+        <Pixmap></Pixmap>
+        <Title>Maintenance Tool</Title>
+        <Description>Maintenance Tool</Description>
+        <Version>1.6.0-10</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>23197327</Size>
+        <Dependencies></Dependencies>
+        <ForcedInstallation>true</ForcedInstallation>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.tools.maintenance.icons</Name>
+        <Pixmap></Pixmap>
+        <Title>Maintenance Tool icons</Title>
+        <Description>Maintenance Tool icons</Description>
+        <Version>1.0.1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>2605</Size>
+        <Dependencies></Dependencies>
+        <ForcedInstallation>true</ForcedInstallation>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.license.lgpl</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt License LGPL</Title>
+        <Description></Description>
+        <Version>1.0.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>0</Size>
+        <Dependencies></Dependencies>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.license.thirdparty</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt 3rd Party Licenses</Title>
+        <Description></Description>
+        <Version>1.0.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>104915</Size>
+        <Dependencies></Dependencies>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt</Title>
+        <Description>Qt</Description>
+        <Version>1.0.8</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.license.thirdparty,qt.license.lgpl</Dependencies>
+    </Package>
+    <Package>
+        <Name>qt.54.doc</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt 5.4 Documentation</Title>
+        <Description>Qt 5.4 documentation</Description>
+        <Version>5.4.0-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>183050396</Size>
+        <Dependencies>qt.tools</Dependencies>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.54.examples</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt 5.4 Examples</Title>
+        <Description>Qt 5.4 Examples</Description>
+        <Version>5.4.0-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>35806738</Size>
+        <Dependencies>qt.tools</Dependencies>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.54</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt 5.4</Title>
+        <Description>Qt 5.4.0</Description>
+        <Version>5.4.0-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.54.doc,qt.54.examples</Dependencies>
+    </Package>
+    <Package>
+        <Name>qt.54.gcc_64</Name>
+        <Pixmap></Pixmap>
+        <Title>gcc 64-bit</Title>
+        <Description>License options: LGPLv3, LGPLv2.1, Commercial&lt;br>&lt;br>Qt 5.4.0 Prebuilt Components for gcc 64-bit </Description>
+        <Version>5.4.0-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>196270876</Size>
+        <Dependencies>qt.tools.qtcreator</Dependencies>
+    </Package>
+    <Package>
+        <Name>qt.54.android_armv7</Name>
+        <Pixmap></Pixmap>
+        <Title>Android armv7</Title>
+        <Description>License options: LGPLv3, Commercial&lt;br>&lt;br>NOTE: Not licensed under LGPLv2.1&lt;br>&lt;br>Qt 5.4.0 Prebuilt Components for Android armv7</Description>
+        <Version>5.4.0-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>126900672</Size>
+        <Dependencies>qt.tools.qtcreator</Dependencies>
+    </Package>
+    <Package>
+        <Name>qt.extras.qtcanvas3d.10.src</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt Canvas 3D Src</Title>
+        <Description></Description>
+        <Version>1.0.0-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>5230462</Size>
+        <Dependencies></Dependencies>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.extras.qtcanvas3d.src</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt Canvas 3D Src</Title>
+        <Description></Description>
+        <Version>1.0.0-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.extras.qtcanvas3d.10.src</Dependencies>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.extras.qtcanvas3d</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt Canvas 3D 1.0 (Tech Preview)</Title>
+        <Description>License options: LGPLv3, Commercial&lt;br>&lt;br>NOTE: Not licensed under LGPLv2.1&lt;br>&lt;br>Qt Canvas 3D module adds a new component that allows using of a WebGL-like API from QtQuick JavaScript.</Description>
+        <Version>1.0.0-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.extras.qtcanvas3d.src</Dependencies>
+    </Package>
+    <Package>
+        <Name>qt.extras.qtwebview.doc</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt WebView Documentation</Title>
+        <Description></Description>
+        <Version>1.0.0-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>179274</Size>
+        <Dependencies>qt.tools,qt.tools.qtcreator</Dependencies>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.extras.qtwebview.examples</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt WebView</Title>
+        <Description></Description>
+        <Version>1.0.0-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>84235</Size>
+        <Dependencies>qt.tools,qt.tools.qtcreator</Dependencies>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.extras.qtwebview.10.src</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt WebView Src</Title>
+        <Description></Description>
+        <Version>1.0.0-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>158731</Size>
+        <Dependencies></Dependencies>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.extras.qtwebview.src</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt WebView Src</Title>
+        <Description></Description>
+        <Version>1.0.0-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.extras.qtwebview.10.src</Dependencies>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.extras.qtwebview</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt WebView 1.0 (Tech Preview)</Title>
+        <Description>License options: LGPLv3, GPLv2, Commercial&lt;br>&lt;br>NOTE: Not licensed under LGPLv2.1&lt;br>&lt;br>Qt WebView. A lightweight native WebView for Android and iOS.</Description>
+        <Version>1.0.0-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.extras.qtwebview.src,qt.extras.qtwebview.doc,qt.extras.qtwebview.examples</Dependencies>
+    </Package>
+    <Package>
+        <Name>qt.54.qtwebengine.gcc_64</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt WebEngine for gcc 64-bit</Title>
+        <Description></Description>
+        <Version>5.4.0-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>98058261</Size>
+        <Dependencies>qt.54.gcc_64</Dependencies>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.extras.qtwebview.qt54.gcc_64</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt WebView for gcc 64-bit</Title>
+        <Description></Description>
+        <Version>1.0.0-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>65975</Size>
+        <Dependencies>qt.54.gcc_64</Dependencies>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.extras.qtwebview.qt54.android_armv7</Name>
+        <Pixmap></Pixmap>
+        <Title>Qt WebView for Android armv7</Title>
+        <Description></Description>
+        <Version>1.0.0-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2015-01-23</InstallDate>
+        <Size>119097</Size>
+        <Dependencies>qt.54.android_armv7</Dependencies>
+        <Virtual>true</Virtual>
+    </Package>
+</Packages>
